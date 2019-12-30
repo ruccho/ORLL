@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\nobor\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\nobor\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_ORLL.-1578462766.00" t="ExcludeRecursive" />
+    <e p="C:\Users\nobor\Documents\development\repositories\ORLL" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="PropertyDrawerSample.cs" t="Include" />
+        <e p="Ruccho" t="Include">
+          <e p="ORLL" t="Include">
+            <e p="Sample" t="Include">
+              <e p="LocalizationInitializer.cs" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="LocalizationGroup.cs" t="Include" />
+              <e p="LocalizationPack.cs" t="Include" />
+              <e p="LocalizationUnit.cs" t="Include" />
+              <e p="LocalizationUnitHandle.cs" t="Include" />
+              <e p="LocalizationUnitReference.cs" t="Include" />
+              <e p="Localizer.cs" t="Include" />
+            </e>
+            <e p="Unity" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="LocalizationEditor" t="Include">
+                    <e p="LocalizationEditor.cs" t="Include" />
+                    <e p="LocalizationEditor.uxml" t="Include" />
+                    <e p="LocalizationEditor_style.uss" t="Include" />
+                  </e>
+                  <e p="LocalizationManager" t="Include">
+                    <e p="LocalizationManager.cs" t="Include" />
+                    <e p="LocalizationManager.uxml" t="Include" />
+                    <e p="LocalizationManager_style.uss" t="Include" />
+                  </e>
+                  <e p="LocalizedStringDrawer.cs" t="Include" />
+                  <e p="LocalizedTextField" t="Include">
+                    <e p="LocalizedTextField.cs" t="Include" />
+                    <e p="LocalizedTextField.uss" t="Include" />
+                    <e p="LocalizedTextField.uxml" t="Include" />
+                  </e>
+                </e>
+                <e p="LocalizedString.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="MessagePack" t="Include">
+            <e p="Attributes.cs" t="Include" />
+            <e p="FloatBits.cs" t="Include" />
+            <e p="Formatters" t="Include">
+              <e p="CollectionFormatter.cs" t="Include" />
+              <e p="DictionaryFormatter.cs" t="Include" />
+              <e p="DynamicObjectTypeFallbackFormatter.cs" t="Include" />
+              <e p="EnumAsStringFormatter.cs" t="Include" />
+              <e p="ForceSizePrimitiveFormatter.cs" t="Include" />
+              <e p="IgnoreFormatter.cs" t="Include" />
+              <e p="IMessagePackFormatter.cs" t="Include" />
+              <e p="MultiDimentionalArrayFormatter.cs" t="Include" />
+              <e p="NullableFormatter.cs" t="Include" />
+              <e p="OldSpecFormatter.cs" t="Include" />
+              <e p="PrimitiveFormatter.cs" t="Include" />
+              <e p="PrimitiveObjectFormatter.cs" t="Include" />
+              <e p="StandardClassLibraryFormatter.cs" t="Include" />
+              <e p="TupleFormatter.cs" t="Include" />
+              <e p="TypelessFormatter.cs" t="Include" />
+              <e p="UnsafeBinaryFormatters.cs" t="Include" />
+              <e p="ValueTupleFormatter.cs" t="Include" />
+            </e>
+            <e p="IFormatterResolver.cs" t="Include" />
+            <e p="IMessagePackSerializationCallbackReceiver.cs" t="Include" />
+            <e p="Internal" t="Include">
+              <e p="ArrayPool.cs" t="Include" />
+              <e p="AsymmetricKeyHashTable.cs" t="Include" />
+              <e p="AutomataDictionary.cs" t="Include" />
+              <e p="ByteArrayComparer.cs" t="Include" />
+              <e p="ByteArrayStringHashTable.cs" t="Include" />
+              <e p="DynamicAssembly.cs" t="Include" />
+              <e p="ExpressionUtility.cs" t="Include" />
+              <e p="FarmHash.cs" t="Include" />
+              <e p="GuidBits.cs" t="Include" />
+              <e p="ILGeneratorExtensions.cs" t="Include" />
+              <e p="ReflectionExtensions.cs" t="Include" />
+              <e p="ThreadsafeTypeKeyHashTable.cs" t="Include" />
+              <e p="TinyJsonReader.cs" t="Include" />
+              <e p="UnsafeMemory.cs" t="Include" />
+              <e p="UnsafeMemory.Low.cs" t="Include" />
+            </e>
+            <e p="LZ4" t="Include">
+              <e p="Codec" t="Include">
+                <e p="LZ4Codec.cs" t="Include" />
+                <e p="LZ4Codec.Helper.cs" t="Include" />
+                <e p="LZ4Codec.Safe.cs" t="Include" />
+                <e p="LZ4Codec.Safe32.Dirty.cs" t="Include" />
+                <e p="LZ4Codec.Safe64.Dirty.cs" t="Include" />
+                <e p="LZ4Codec.Unsafe.cs" t="Include" />
+                <e p="LZ4Codec.Unsafe32.Dirty.cs" t="Include" />
+                <e p="LZ4Codec.Unsafe64.Dirty.cs" t="Include" />
+              </e>
+              <e p="LZ4MessagePackSerializer.cs" t="Include" />
+              <e p="LZ4MessagePackSerializer.JSON.cs" t="Include" />
+              <e p="LZ4MessagePackSerializer.NonGeneric.cs" t="Include" />
+            </e>
+            <e p="MessagePackBinary.cs" t="Include" />
+            <e p="MessagePackCode.cs" t="Include" />
+            <e p="MessagePackSerializer.cs" t="Include" />
+            <e p="MessagePackSerializer.Json.cs" t="Include" />
+            <e p="MessagePackSerializer.NonGeneric.cs" t="Include" />
+            <e p="Nil.cs" t="Include" />
+            <e p="Resolvers" t="Include">
+              <e p="AttributeFormatterResolver.cs" t="Include" />
+              <e p="BuiltinResolver.cs" t="Include" />
+              <e p="CompositeResolver.cs" t="Include" />
+              <e p="ContractlessReflectionObjectResolver.cs" t="Include" />
+              <e p="DynamicEnumAsStringResolver.cs" t="Include" />
+              <e p="DynamicEnumResolver.cs" t="Include" />
+              <e p="DynamicGenericResolver.cs" t="Include" />
+              <e p="DynamicObjectResolver.cs" t="Include" />
+              <e p="DynamicUnionResolver.cs" t="Include" />
+              <e p="NativeDateTimeResolver.cs" t="Include" />
+              <e p="OldSpecResolver.cs" t="Include" />
+              <e p="PrimitiveObjectResolver.cs" t="Include" />
+              <e p="StandardResolver.cs" t="Include" />
+              <e p="TypelessContractlessStandardResolver.cs" t="Include" />
+              <e p="TypelessObjectResolver.cs" t="Include" />
+              <e p="UnsafeBinaryResolver.cs" t="Include" />
+            </e>
+            <e p="Shims" t="Include">
+              <e p="Reflection.cs" t="Include" />
+            </e>
+            <e p="StringEncoding.cs" t="Include" />
+            <e p="Unity" t="Include">
+              <e p="Formatters.cs" t="Include" />
+              <e p="UnityResolver.cs" t="Include" />
+            </e>
+            <e p="UnsafeExtensions" t="Include">
+              <e p="UnityBlitResolver.cs" t="Include" />
+              <e p="UnsafeBlitFormatter.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="MessagePack.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="ORLL.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

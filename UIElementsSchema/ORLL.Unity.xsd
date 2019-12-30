@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:editor="UnityEditor.Experimental.UIElements" xmlns:upm="UnityEditor.PackageManager.UI" xmlns:engine="UnityEngine.Experimental.UIElements" xmlns="ORLL.Unity" elementFormDefault="qualified" targetNamespace="ORLL.Unity" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="UnityEngine.Experimental.UIElements.xsd" namespace="UnityEngine.Experimental.UIElements" />
+  <xs:complexType name="LocalizedTextFieldType">
+    <xs:complexContent mixed="false">
+      <xs:restriction base="engine:VisualElementType">
+        <xs:attribute default="" name="name" type="xs:string" use="optional" />
+        <xs:attribute default="Position" name="picking-mode" type="engine:VisualElement_picking-mode_Type" use="optional" />
+        <xs:attribute default="" name="tooltip" type="xs:string" use="optional" />
+        <xs:attribute default="-1" name="focus-index" type="xs:int" use="optional" />
+        <xs:attribute default="none label" name="text" type="xs:string" use="optional" />
+        <xs:anyAttribute processContents="lax" />
+      </xs:restriction>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="LocalizedTextField" substitutionGroup="engine:VisualElement" type="LocalizedTextFieldType" />
+</xs:schema>

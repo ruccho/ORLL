@@ -1,0 +1,122 @@
+﻿Box
+{
+	background-image: none;
+}
+
+Box#container
+{
+	flex-direction: row;
+	
+}
+
+Box#packs
+{
+	
+	width: 200px;
+	flex-direction: column;
+}
+
+Box#rightPane
+{
+	flex-grow: 4;
+	flex-direction: column;
+}
+
+Box#properties
+{
+	flex-direction: column;
+}
+
+#bottom-bar
+{
+	position: absolute;
+	bottom: 0;
+	height: 20px;
+	flex-direction: row;
+	padding: 0;
+}
+
+#bottom-bar > Button
+{	
+	height: 20px;
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-left: 0;
+	margin-right: 0;
+	padding-left: 10px;
+	padding-top: 0;
+	padding-right: 10px;
+	padding-bottom: 0;
+}
+
+#refresh-button
+{
+	position: absolute;
+	bottom: 0;
+	left: 100px;
+}
+
+#packs-listContainer
+{
+	flex-grow: 1;
+	flex-direction: column;
+	margin-top: 0;
+	margin-bottom: 20px;
+	margin-left: 0;
+	margin-right: 0;
+}
+
+#properties-container
+{
+	flex-direction: column;
+}
+
+#properties-labels
+{
+	flex-grow: 1;
+	min-width: 100px;
+
+}
+
+#properties-fields
+{
+	flex-grow: 2;
+}
+
+#properties-fields > *
+{
+	height: 18px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-bottom: 2px;
+}
+
+#properties-labels > *
+{
+	height: 18px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-bottom: 2px;
+}
+
+.properties-item
+{
+	flex-direction: row;
+	border-width: 0;
+	background-image: none;
+}
+
+.properties-item > Label
+{
+	width: 120px;
+}
+
+.properties-item > TextField
+{
+	flex-grow: 1;
+}
+
+.properties-item > TextField.multiline
+{
+	min-height: 45px;
+}

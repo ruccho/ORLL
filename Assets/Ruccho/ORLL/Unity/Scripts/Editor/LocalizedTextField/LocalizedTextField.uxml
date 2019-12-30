@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<engine:UXML
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:engine="UnityEngine.Experimental.UIElements"
+    xmlns:editor="UnityEditor.Experimental.UIElements"
+    xmlns:upm="UnityEditor.PackageManager.UI"
+
+xsi:noNamespaceSchemaLocation="../../../../../../../UIElementsSchema/UIElements.xsd"
+xsi:schemaLocation="
+                        UnityEngine.UIElements ../../../../../../../UIElementsSchema/UnityEngine.UIElements.xsd
+                        UnityEditor.UIElements ../../../../../../../UIElementsSchema/UnityEditor.UIElements.xsd
+                        UnityEditor.PackageManager.UI ../../../../../../../UIElementsSchema/UnityEditor.PackageManager.UI.xsd
+                        ORLL.Unity ../../../../../../../UIElementsSchema/ORLL.Unity.xsd
+"
+>
+  <engine:Box name="localizations">
+
+  </engine:Box>
+  <engine:Box name="footer">
+    <engine:Button name="add" text="Add localization" />
+    <engine:Button name="refresh" text="Refresh"/>
+  </engine:Box>
+  
+</engine:UXML>

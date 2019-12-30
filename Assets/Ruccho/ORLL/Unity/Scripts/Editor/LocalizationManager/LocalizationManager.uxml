@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<engine:UXML
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:engine="UnityEngine.Experimental.UIElements"
+    xmlns:editor="UnityEditor.Experimental.UIElements"
+    xmlns:upm="UnityEditor.PackageManager.UI"
+
+xsi:noNamespaceSchemaLocation="../../../../../../../UIElementsSchema/UIElements.xsd"
+xsi:schemaLocation="
+                        UnityEngine.UIElements ../../../../../../../UIElementsSchema/UnityEngine.UIElements.xsd
+                        UnityEditor.UIElements ../../../../../../../UIElementsSchema/UnityEditor.UIElements.xsd
+                        UnityEditor.PackageManager.UI ../../../../../../../UIElementsSchema/UnityEditor.PackageManager.UI.xsd
+"
+>
+  <engine:Box name="container">
+    <engine:Box name="packs">
+      <engine:Label text="Packs" />
+      <engine:Box name="packs-listContainer">
+
+      </engine:Box>
+      <engine:Box name="bottom-bar">
+        <engine:Button name="packs-add" text="+"/>
+        <engine:Button name="packs-remove" text="-"/>
+        <engine:Button name="packs-refresh" text="Refresh"/>
+      </engine:Box>
+
+    </engine:Box>
+    <engine:Box name="rightPane">
+      <engine:Box name="properties">
+        <engine:Label text="Properties" />
+        <engine:Box name="properties-container">
+        </engine:Box>
+      </engine:Box>
+      <engine:Button text="Save" name="properties-save"/>
+      <engine:Box name="groups">
+        <engine:Label text="Groups" />
+        
+      </engine:Box>
+    </engine:Box>
+  </engine:Box>
+
+</engine:UXML>

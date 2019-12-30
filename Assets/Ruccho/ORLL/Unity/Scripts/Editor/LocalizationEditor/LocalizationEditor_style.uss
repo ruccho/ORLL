@@ -1,0 +1,58 @@
+﻿#root
+{
+	flex-direction: row;
+}
+
+#leftPane
+{
+	min-width: 100px;
+	flex-grow: 1;
+}
+
+#rightPane
+{
+	flex-grow: 4;
+	flex-direction: row;
+}
+
+#units
+{
+	min-width: 150px;
+	flex-grow: 1;
+}
+
+#keys-root
+{
+	flex-grow: 3;
+}
+
+ScrollView
+{
+	flex-grow: 1;
+}
+
+#keys
+{
+	flex-direction: column;
+	flex-grow: 1;
+}
+
+#footer
+{
+    flex-direction: row;
+}
+
+#footer > TextField
+{
+    flex-grow: 1;
+}
+
+#footer > Button
+{
+    width: 70px;
+}
+
+.content-view
+{
+    flex-direction: column;
+}

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b17e8fb4-f697-45c8-b71b-ce9b42b3b369" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5A051C2C-C214-492F-86B4-AEDB44B379C8/e1/92700630/PropertyField.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Ruccho/ORLL/Scripts/LocalizationUnitReference.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Ruccho/ORLL/Unity/Scripts/Editor/LocalizationEditor/LocalizationEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Ruccho/ORLL/Unity/Scripts/Editor/LocalizedStringDrawer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Ruccho/ORLL/Unity/Scripts/Editor/LocalizationManager/LocalizationManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Ruccho/ORLL/Unity/Scripts/Editor/LocalizedTextField/LocalizedTextField.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Ruccho/ORLL/Unity/Scripts/LocalizedString.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PropertyDrawerSample.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5A051C2C-C214-492F-86B4-AEDB44B379C8/14/c8814c6c/PropertyDrawer.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Ruccho/ORLL/Scripts/LocalizationPack.cs" />
+        <option value="$PROJECT_DIR$/Assets/Ruccho/ORLL/Scripts/LocalizationGroup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Ruccho/ORLL/Scripts/LocalizationUnitHandle.cs" />
+        <option value="$PROJECT_DIR$/Assets/Ruccho/ORLL/Scripts/Localizer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Ruccho/ORLL/Unity/Scripts/Editor/LocalizationManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Ruccho/ORLL/Unity/Scripts/E/LocalizationEditor/LocalizationEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Ruccho/ORLL/Unity/Scripts/E/LocalizedTextField/LocalizedTextField.cs" />
+        <option value="$PROJECT_DIR$/Assets/Ruccho/ORLL/Sample/LocalizationInitializer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Ruccho/ORLL/Scripts/LocalizationUnitReference.cs" />
+        <option value="$PROJECT_DIR$/Assets/PropertyDrawerSample.cs" />
+        <option value="$PROJECT_DIR$/Assets/Ruccho/ORLL/Unity/Scripts/Editor/LocalizedTextField/LocalizedTextField.cs" />
+        <option value="$PROJECT_DIR$/Assets/Ruccho/ORLL/Unity/Scripts/Editor/LocalizedStringDrawer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Ruccho/ORLL/Unity/Scripts/Editor/LocalizationManager/LocalizationManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Ruccho/ORLL/Unity/Scripts/LocalizedString.cs" />
+        <option value="$PROJECT_DIR$/Assets/Ruccho/ORLL/Unity/Scripts/Editor/LocalizationEditor/LocalizationEditor.uxml" />
+        <option value="$PROJECT_DIR$/Assets/Ruccho/ORLL/Unity/Scripts/Editor/LocalizationManager/LocalizationManager.uxml" />
+        <option value="$PROJECT_DIR$/Assets/Ruccho/ORLL/Unity/Scripts/Editor/LocalizedTextField/LocalizedTextField.uxml" />
+        <option value="$PROJECT_DIR$/Assets/Ruccho/ORLL/Unity/Scripts/Editor/LocalizationEditor/LocalizationEditor_style.uss" />
+        <option value="$PROJECT_DIR$/Assets/Ruccho/ORLL/Unity/Scripts/Editor/LocalizationEditor/LocalizationEditor.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1U48QoXVGXLaNPei5OJBmIhw4mm" />
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b17e8fb4-f697-45c8-b71b-ce9b42b3b369" name="Default Changelist" comment="" />
+      <created>1574604495735</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574604495735</updated>
+      <workItem from="1574604505788" duration="3543000" />
+      <workItem from="1574608255193" duration="3752000" />
+      <workItem from="1574668731568" duration="5734000" />
+      <workItem from="1574686424671" duration="5010000" />
+      <workItem from="1574775461750" duration="8871000" />
+      <workItem from="1574898488013" duration="1006000" />
+      <workItem from="1574899706538" duration="1885000" />
+      <workItem from="1576228164988" duration="12911000" />
+      <workItem from="1576288397602" duration="11245000" />
+      <workItem from="1576486892687" duration="3618000" />
+      <workItem from="1576644483120" duration="7058000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
